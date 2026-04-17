@@ -1,0 +1,7 @@
+interface:
+  display_name: "Obsidian Inbox Codex Metadata"
+  short_description: "inbox-codex用YAMLメタデータ整形"
+  default_prompt: "Use $obsidian-inbox-codex-metadata to apply Basic_Template metadata to the Markdown files in 10_CAPTURE/inbox-codex."
+
+policy:
+  allow_implicit_invocation: false
